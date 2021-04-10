@@ -1,0 +1,12 @@
+{
+  "name": "dark_telegram_blue",
+  "displayName": "dark telegram blue",
+  "theme": "ui",
+  "version": "0.0.1",
+  "description": "dark theme with telegram blue text inside Mailspring.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
