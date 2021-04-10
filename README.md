@@ -1,3 +1,4 @@
+![Screenshot](Screenshot_2.png)
 Dark Theme for Mailspring with blue telegram colors
 
 Summary 
